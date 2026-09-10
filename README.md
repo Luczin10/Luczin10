@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucas Gabriel!
+# 👋 Olá, eu sou Lucas Gabriel Scomparin!
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🐍 Desenvolvedor Python  
@@ -9,7 +9,7 @@
 
 ## 🌐 Redes sociais
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luc_scomparin/)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](SEU_LINK)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
