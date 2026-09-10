@@ -25,8 +25,7 @@
 
 ## 💻 Linguagens
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luczin10&layout=compact&theme=radical)
 ---
 
 ## 🛠️ Tecnologias
