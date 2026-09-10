@@ -37,6 +37,8 @@
 </p>
 
 ---
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=d04r6st3at9q838xc9x64y4t2&theme=dracula&count=3&width=520&radius=15&time=0&unique=1&now_playing=0&album=1&username=id)
+---
 
 ## 📈 Atividade
 
