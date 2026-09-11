@@ -29,7 +29,7 @@
 </p>
 
 ---
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=d04r6st3at9q838xc9x64y4t2&theme=dracula&count=3&width=520&radius=15&time=0&unique=1&now_playing=0&album=1&username=id)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=d04r6st3at9q838xc9x64y4t2&unique=1&album=1&footer=wave&bg_color=0d1121&text_color=e4edfb&artist_color=8ca2ba&meta_color=90afd5&logo_color=f9f6a4)
 ---
 
 
