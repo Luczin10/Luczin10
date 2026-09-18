@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucas Gabriel Scomparin!
+#  Olá, eu sou Lucas Gabriel Scomparin!
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🐍 Desenvolvedor Python  
